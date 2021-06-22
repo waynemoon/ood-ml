@@ -41,7 +41,7 @@ Work in progress, inspired by [causal-ml](https://github.com/jvpoulos/causal-ml)
 ## Domain adaptation
 * **Advances in Domain Adaptation Theory**, Elsevier, 2019.
 
-  Ievgen Redko Emilie Morvant Amaury Habrard Marc Sebban Younès Bennani
+  Ievgen Redko, Emilie Morvant, Amaury Habrard, Marc Sebban, Younès Bennani
 
 ## Inductive biases
 * **Inductive Biases for Deep Learning of Higher-Level Cognition**, 2021. [paper](https://arxiv.org/abs/2011.15091)
