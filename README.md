@@ -1,5 +1,5 @@
 # Must-read papers and resources related to out-of-distribution generalization in machine learning
-work in progress, inspired by [causal-ml](https://github.com/jvpoulos/causal-ml).
+Work in progress, inspired by [causal-ml](https://github.com/jvpoulos/causal-ml).
 # Content
 <table>
 <tr><td colspan="2"><a href="#thesis">1. Thesis</a></td></tr> 
