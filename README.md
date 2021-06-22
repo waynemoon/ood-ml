@@ -5,10 +5,11 @@ Work in progress, inspired by [causal-ml](https://github.com/jvpoulos/causal-ml)
 <tr><td colspan="2"><a href="#thesis">1. Thesis</a></td></tr> 
 <tr><td colspan="2"><a href="#invariance-principles">2. Invariance principles </a></td></tr> 
 <tr><td colspan="2"><a href="#information-bottleneck">3. Information bottleneck</a></td></tr> 
-<tr><td colspan="2"><a href="#inductive-biases">4. Domain adaptation</a></td></tr> 
-<tr><td colspan="2"><a href="#applications">5. Applications</a></td></tr> 
+<tr><td colspan="2"><a href="#domain-adaptation">4. Domain adaptation</a></td></tr> 
+<tr><td colspan="2"><a href="#inductive-biases">5. Inductive biases</a></td></tr> 
+<tr><td colspan="2"><a href="#applications">6. Applications</a></td></tr> 
 <tr>
-    <td>&emsp;<a href="#computer-vision">5.1. Computer vision</a></td>
+    <td>&emsp;<a href="#computer-vision">6.1. Computer vision</a></td>
     
 </tr> 
 </tr> 
