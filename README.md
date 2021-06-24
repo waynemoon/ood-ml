@@ -38,6 +38,11 @@ Work in progress, inspired by [causal-ml](https://github.com/jvpoulos/causal-ml)
    
    Elan Rosenfeld, Pradeep Ravikumar, Andrej Risteski
 
+* **Nonlinear Invariant Risk Minimization: A Causal Approach**, 2021. [paper](https://arxiv.org/abs/2102.12353)
+
+   Chaochao Lu, Yuhuai Wu, Jośe Miguel Hernández-Lobato, Bernhard Schölkopf
+
+
 ## Information bottleneck
 * **Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization**, 2021. [paper](https://arxiv.org/abs/2106.06607)
    
