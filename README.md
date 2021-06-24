@@ -33,6 +33,10 @@ Work in progress, inspired by [causal-ml](https://github.com/jvpoulos/causal-ml)
 * **Out-of-Distribution Generalization via Risk Extrapolation**, 2021. [paper](https://arxiv.org/abs/2003.00688)
 
    David Krueger, Ethan Caballero, Joern-Henrik Jacobsen, Amy Zhang, Jonathan Binas, Dinghuai Zhang, Remi Le Priol, Aaron Courville
+   
+* **The Risks of Invariant Risk Minimization**, ICLR, 2021. [paper](https://arxiv.org/abs/2010.05761)
+   
+   Elan Rosenfeld, Pradeep Ravikumar, Andrej Risteski
 
 ## Information bottleneck
 * **Invariance Principle Meets Information Bottleneck for Out-of-Distribution Generalization**, 2021. [paper](https://arxiv.org/abs/2106.06607)
