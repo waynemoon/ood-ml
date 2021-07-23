@@ -10,6 +10,7 @@ Work in progress, inspired by [causal-ml](https://github.com/jvpoulos/causal-ml)
 <tr><td colspan="2"><a href="#applications">6. Applications</a></td></tr> 
 <tr>
     <td>&emsp;<a href="#computer-vision">6.1. Computer vision</a></td>
+    <td>&emsp;<a href="#natural-language-processing">6.2. Natural language processing</a></td>
     
 </tr> 
 </tr> 
@@ -66,3 +67,8 @@ Work in progress, inspired by [causal-ml](https://github.com/jvpoulos/causal-ml)
 * **Roses Are Red, Violets Are Blue... but Should Vqa Expect Them To?**, CVPR, 2021. [paper](https://arxiv.org/abs/2006.05121)
   
    Corentin Kervadec, Grigory Antipov, Moez Baccouche, Christian Wolf
+
+### Natural language processing
+* **Pretrained transformers improve out of distribution robustness**, ACL, 2020. [paper](https://arxiv.org/abs/2004.06100)
+  
+   Dan Hendrycks, Xiaoyuan Liu, Eric Wallace, Adam Dziedzic, Rishabh Krishnan, Dawn Song
