@@ -11,7 +11,7 @@ Work in progress, inspired by [causal-ml](https://github.com/jvpoulos/causal-ml)
 <tr>
     <td>&emsp;<a href="#computer-vision">6.1. Computer vision</a></td>
     <td>&emsp;<a href="#natural-language-processing">6.2. Natural language processing</a></td>
-    
+<tr><td colspan="2"><a href="#benchmarks">7. Benchmarks</a></td></tr>    
 </tr> 
 </tr> 
 </table>
@@ -72,3 +72,9 @@ Work in progress, inspired by [causal-ml](https://github.com/jvpoulos/causal-ml)
 * **Pretrained transformers improve out of distribution robustness**, ACL, 2020. [paper](https://arxiv.org/abs/2004.06100)
   
    Dan Hendrycks, Xiaoyuan Liu, Eric Wallace, Adam Dziedzic, Rishabh Krishnan, Dawn Song
+## Benchmarks
+* **WILDS: A Benchmark of in-the-Wild Distribution Shifts**, 2021. [paper](https://arxiv.org/abs/2012.07421)[code](https:// github.com/p-lambda/wilds)
+  
+   Pang Wei Koh, Shiori Sagawa, Henrik Marklund, Sang Michael Xie, Marvin Zhang, Akshay Balsubramani, Weihua Hu, Michihiro Yasunaga, Richard Lanas Phillips, 
+   Irena Gao, Tony Lee, Etienne David, Ian Stavness, Wei Guo, Berton A. Earnshaw, Imran S. Haque, Sara Beery, Jure Leskovec, Anshul Kundaje, Emma Pierson, 
+   Sergey Levine, Chelsea Finn, Percy Liang
