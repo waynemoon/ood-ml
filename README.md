@@ -73,7 +73,7 @@ Work in progress, inspired by [causal-ml](https://github.com/jvpoulos/causal-ml)
   
    Dan Hendrycks, Xiaoyuan Liu, Eric Wallace, Adam Dziedzic, Rishabh Krishnan, Dawn Song
 ## Benchmarks
-* **WILDS: A Benchmark of in-the-Wild Distribution Shifts**, 2021. [paper](https://arxiv.org/abs/2012.07421)[code](https:// github.com/p-lambda/wilds)
+* **WILDS: A Benchmark of in-the-Wild Distribution Shifts**, 2021. [paper](https://arxiv.org/abs/2012.07421) [code](https://github.com/p-lambda/wilds)
   
    Pang Wei Koh, Shiori Sagawa, Henrik Marklund, Sang Michael Xie, Marvin Zhang, Akshay Balsubramani, Weihua Hu, Michihiro Yasunaga, Richard Lanas Phillips, 
    Irena Gao, Tony Lee, Etienne David, Ian Stavness, Wei Guo, Berton A. Earnshaw, Imran S. Haque, Sara Beery, Jure Leskovec, Anshul Kundaje, Emma Pierson, 
