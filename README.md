@@ -11,7 +11,8 @@ Work in progress, inspired by [causal-ml](https://github.com/jvpoulos/causal-ml)
 <tr>
     <td>&emsp;<a href="#computer-vision">6.1. Computer vision</a></td>
     <td>&emsp;<a href="#natural-language-processing">6.2. Natural language processing</a></td>
-<tr><td colspan="2"><a href="#benchmarks">7. Benchmarks</a></td></tr>    
+<tr><td colspan="2"><a href="#benchmarks">7. Benchmarks</a></td></tr>   
+<tr><td colspan="2"><a href="#survey">8. Survey</a></td></tr>    
 </tr> 
 </tr> 
 </table>
@@ -82,3 +83,6 @@ Work in progress, inspired by [causal-ml](https://github.com/jvpoulos/causal-ml)
 * **OoD-Bench: Benchmarking and Understanding Out-of-Distribution Generalization Datasets and Algorithms**, 2021. [paper](https://arxiv.org/abs/2106.03721)
    
    Nanyang Ye, Kaican Li, Lanqing Hong, Haoyue Bai, Yiting Chen, Fengwei Zhou, Zhenguo Li
+## Survey
+* **Towards Out-Of-Distribution Generalization: A Survey**, 2021. [paper](https://arxiv.org/abs/2108.13624)
+  Zheyan Shen, Jiashuo Liu, Yue He, Xingxuan Zhang, Renzhe Xu, Han Yu, Peng Cui
